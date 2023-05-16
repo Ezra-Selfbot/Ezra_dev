@@ -1,2 +1,2 @@
 # Ezra_dev
-Version développée de Ezra selfbot 
+Version en developpement de Ezra selfbot 
